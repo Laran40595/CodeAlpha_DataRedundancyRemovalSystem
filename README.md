@@ -56,3 +56,33 @@ The submitted data is valid and does not already exist in the database.
 
 ```text
 UNIQUE -> accepted -> stored
+
+## 📸 Project Screenshots
+
+The following screenshots demonstrate the functionality, API documentation, deployment, and testing of the Data Redundancy Removal System.
+
+### Application & API
+
+![Screenshot 53](./Screenshot%20%2853%29.png)
+
+![Screenshot 54](./Screenshot%20%2854%29.png)
+
+![Screenshot 55](./Screenshot%20%2855%29.png)
+
+### System Functionality & Results
+
+![Screenshot 56](./Screenshot%20%2856%29.png)
+
+![Screenshot 57](./Screenshot%20%2857%29.png)
+
+![Screenshot 58](./Screenshot%20%2858%29.png)
+
+### Deployment & Testing
+
+![Screenshot 59](./Screenshot%20%2859%29.png)
+
+![Screenshot 60](./Screenshot%20%2860%29.png)
+
+![Screenshot 61](./Screenshot%20%2861%29.png)
+
+![Screenshot 62](./Screenshot%20%2862%29.png)
